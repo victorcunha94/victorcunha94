@@ -1,5 +1,3 @@
-# Vamos salvar o código completo do perfil GitHub em um arquivo .txt
-
 # 👨🏻‍💻 Victor Cunha  
 
 **`Matemática Computacional | Dados & Machine Learning`**  
