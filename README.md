@@ -1,9 +1,8 @@
 # 👨🏻‍💻 Victor Cunha  
 
-**`Matemática Computacional | Dados & Machine Learning`**  
+**`Matemática Computacional `**  
 
-Sou apaixonado por matemática, educação e tecnologia. Tenho graduação em Licenciatura em Matemática (UPE), mestrado em Modelagem Matemática e Computacional (UFPB) e atualmente sou doutorando em Ciências da Computação e Matemática Computacional (USP). Minha trajetória começou na educação, com experiência como professor e tutor, mas hoje busco aplicar meus conhecimentos em matemática computacional e métodos numéricos.  
-
+Olá, meu nome é Victor. Neste perfil compartilho meu aprendizado e projetos que estou desenvolvendo ou colaborando.
 
 ---
 
@@ -52,19 +51,6 @@ Sou apaixonado por matemática, educação e tecnologia. Tenho graduação em Li
 - 📘 **Licenciatura em Matemática** – Universidade de Pernambuco (UPE)  
 - 🎓 **Mestrado em Modelagem Matemática e Computacional** – Universidade Federal da Paraíba (UFPB)  
 - 📚 **Doutorado em Ciências da Computação e Matemática Computacional** – Universidade de São Paulo (USP)  
-
----
-
-### 💼 Experiência  
-
-- 👨‍🏫 **Professor de Formação Profissional** – Escola Dom Bosco  
-  - Leciono **Matemática** e **Informática** para jovens aprendizes, com foco em habilidades essenciais para o mercado de trabalho.  
-
-- 🎓 **Tutor EAD** – SENAR  
-  - Atuei na tutoria de disciplinas de Matemática Básica e Financeira, mediando fóruns de discussão e fornecendo feedbacks personalizados.  
-
-- 📖 **Monitor de Matemática** – Curso Preparatório  
-  - Elaboração de materiais didáticos e acompanhamento de alunos para o ENEM, com foco em resolução estratégica de questões.  
 
 ---
 
