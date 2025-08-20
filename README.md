@@ -2,7 +2,7 @@
 
 **`Matemática Computacional `**  
 
-Olá, meu nome é Victor. Neste perfil compartilho meu aprendizado e projetos que estou desenvolvendo ou colaborando.
+Olá! Sou o Victor e compartilho aqui meus projetos, estudos e colaborações em desenvolvimento.
 
 ---
 
