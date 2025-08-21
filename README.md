@@ -50,7 +50,7 @@ Olá! Sou o Victor e compartilho aqui meus projetos, estudos e colaborações em
 
 - 📘 **Licenciatura em Matemática** – Universidade de Pernambuco (UPE)  
 - 🎓 **Mestrado em Modelagem Matemática e Computacional** – Universidade Federal da Paraíba (UFPB)  
-- 📚 **Doutorado em Ciências da Computação e Matemática Computacional** – Universidade de São Paulo (USP)  
+- 📚 **Doutorando em Ciências da Computação e Matemática Computacional** – Universidade de São Paulo (USP)  
 
 ---
 
